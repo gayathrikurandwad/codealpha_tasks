@@ -1,0 +1,36 @@
+{
+  "questions": [
+    {
+      "question": "hi",
+      "answer": "hello!!!!!"
+    },
+    {
+      "question": "how are u",
+      "answer": "I'm good.. How are you?"
+    },
+    {
+      "question": "what are u doing",
+      "answer": "I am an AI language model, designed to provide helpful information and assistance in a polite and positive manner. At the moment, I am processing your text input and preparing a relevant response for you."
+    },
+    {
+      "question": "national animal of india",
+      "answer": "The national animal of India is the Bengal Tiger (Panthera tigris tigris)"
+    },
+    {
+      "question": "name some fruits",
+      "answer": "apple,banana,guava,kiwi,orange are some fruits"
+    },
+    {
+      "question": "what is the capital of india",
+      "answer": "New Delhi"
+    },
+    {
+      "question": "who is the main character of TVD?",
+      "answer": "The main characters of The Vampire Diaries(TVD) are Elena,Damon,Stefan."
+    },
+    {
+      "question": "will u tell me a joke",
+      "answer": "sure, why not.... do skeletons fight with eachother?....No, because they dont have guts :)"
+    }
+  ]
+}
